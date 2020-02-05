@@ -1,0 +1,6 @@
+https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+http://vue-charts.hchspersonal.tk/
+https://alligator.io/vuejs/vue-chart-js/
+https://www.npmjs.com/package/vue-cli-plugin-cordova
+https://github.com/dekimasoon/vue-cli-plugin-cordova
+https://fr.jeffprod.com/blog/2018/creer-une-application-android-avec-cordova-et-vuejs/
